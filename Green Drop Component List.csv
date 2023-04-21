@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1,"MCP23008-based, 32 LCD 16 x 2 (I2C)"
+"Q1",1," Ambient Light Sensor [Phototransistor]"
+"U3",1," Temperature Sensor [TMP36]"
+"SEN1",1," Soil Moisture Sensor"
+"R1",1,"2 kΩ Resistor"
+"RING1",1," NeoPixel Ring 24"
+"PIEZO1",1," Piezo"
+"SERVO1, SERVO2",2,"Positional Micro Servo"
+"U4",1," ATtiny"
